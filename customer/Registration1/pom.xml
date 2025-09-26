@@ -5,5 +5,5 @@
     <artifactId>customer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>Registration1</artifactId>
+  <artifactId>Registration2</artifactId>
 </project>
